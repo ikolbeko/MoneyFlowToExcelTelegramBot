@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyFlowToExcelTelegramBot", "MoneyFlowToExcelTelegramBot\MoneyFlowToExcelTelegramBot.csproj", "{68D047C7-D332-424B-BE61-4C256E053E75}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyFlowToExcelTelegramBot", "MoneyFlowToExcelTelegramBot\MoneyFlowToExcelTelegramBot.csproj", "{C8ADE317-2710-42DB-8862-C535E7E84736}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{68D047C7-D332-424B-BE61-4C256E053E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{68D047C7-D332-424B-BE61-4C256E053E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{68D047C7-D332-424B-BE61-4C256E053E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{68D047C7-D332-424B-BE61-4C256E053E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8ADE317-2710-42DB-8862-C535E7E84736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8ADE317-2710-42DB-8862-C535E7E84736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8ADE317-2710-42DB-8862-C535E7E84736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8ADE317-2710-42DB-8862-C535E7E84736}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {35171FE0-2444-40AF-A03A-ED1D13BA88D1}
+		SolutionGuid = {3F69BACF-8755-4265-9D73-93ACFE500502}
 	EndGlobalSection
 EndGlobal
