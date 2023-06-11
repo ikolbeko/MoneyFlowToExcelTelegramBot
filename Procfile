@@ -1,1 +1,1 @@
-worker: dotnet run
+worker: cd $HOME/heroku_output/MoneyFlowToExcelTelegramBot && dotnet ./MoneyFlowToExcelTelegramBot.dll
