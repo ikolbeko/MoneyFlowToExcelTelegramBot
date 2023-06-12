@@ -6,7 +6,7 @@ using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
 
 
-var botClient = new TelegramBotClient("6154595963:AAHJOo8lAThxUPpiHiiYHH1mk4NIUfFCHOI");
+var botClient = new TelegramBotClient("");
 
 Directory.CreateDirectory("csv/");
 Directory.CreateDirectory("excel/");
